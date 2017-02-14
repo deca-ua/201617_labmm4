@@ -6,3 +6,4 @@ Devem manter nesta pasta apenas os ficheiros originais.
 Para trabalhar num exercício recomenda-se a cópia do código
 fonte para para a pasta "trabalho" e deve ser nesse local
 que fazem as alterações.
+
