@@ -51,7 +51,3 @@ $produtos_imagem = array("78.jpg", "0081L.jpg", "sementes_erva_gato.jpg", "0083L
 
 $produtos_preco = array("0,90", "0,90", "1,20", "0,94");
 
-$produtos = array("Abóboras Ornamentais" => "0,90", "Amores Perfeitos" => "0,90", "Catsnack" => "1,20", "Cravos da India Amarelos" => "0,94");
-
-
-
